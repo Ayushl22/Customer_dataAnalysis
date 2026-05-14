@@ -84,8 +84,8 @@ The Power BI dashboard provides interactive visualizations for:
 
 ## Project Files
 - `customer_behaviour.ipynb` → Python analysis notebook
-- `project.sql` → SQL business queries
-- `present.pbix` → Power BI dashboard
+- `customer_analysis.sql` → SQL business queries
+- `dashboard_customerAnalysis.pbix` → Power BI dashboard
 - `Customer Shopping Behavior Analysis.pdf` → Project report
 
 ---
